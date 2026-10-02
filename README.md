@@ -36,7 +36,7 @@ Tworzę różne projekty, eksperymentuję z nowymi technologiami i rozwijam swoj
 
 ## 🚀 Moje projekty
 
-- Mój mod do minecrafta: Kliknij 
+- Mój mod do minecrafta: [Kliknij tutaj](https://www.curseforge.com/minecraft/mc-mods/noscrolll)
 
 ## 📊 GitHub
 
