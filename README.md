@@ -15,7 +15,7 @@ Tworzę różne projekty, eksperymentuję z nowymi technologiami i rozwijam swoj
 
 ## 🛠️ Technologie
 
-### Kod
+### Języki kodowania
 
 - JavaScript
 - Node.js
@@ -23,9 +23,7 @@ Tworzę różne projekty, eksperymentuję z nowymi technologiami i rozwijam swoj
 
 ### Minecraft
 
-* Fabric
-* Minecraft Modding
-* Java
+* Plugin maker
 
 ### Grafika
 
@@ -38,7 +36,7 @@ Tworzę różne projekty, eksperymentuję z nowymi technologiami i rozwijam swoj
 
 ## 🚀 Moje projekty
 
-- Na razie nic tu nie ma 
+- Mój mod do minecrafta: Kliknij 
 
 ## 📊 GitHub
 
@@ -50,19 +48,13 @@ Tworzę różne projekty, eksperymentuję z nowymi technologiami i rozwijam swoj
 
 ## 🎯 Aktualnie
 
-🔨 Pracuję nad własnymi projektami
-💡 Testuję nowe pomysły
-📚 Rozwijam swoje umiejętności
-🎨 Tworzę nowe projekty graficzne
+- Na razie nic tu nie ma 
 
 ---
 
 ## 📫 Kontakt
 
-Jeżeli chcesz się ze mną skontaktować lub zobaczyć moje projekty, znajdziesz mnie tutaj:
-
-* 💻 GitHub — **[@k44](https://github.com/k44)**
-* 💬 Discord — **k44**
+* 💬 Discord:
 
 ---
 
