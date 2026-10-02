@@ -1,15 +1,14 @@
 # Informacje o mnie
 
-**k44** jestem **jn.developerem** i **grafikiem**.
-Tworzę różne projekty, eksperymentuję z nowymi technologiami i rozwijam swoje umiejętności programistyczne oraz graficzne.
+Nazywam się **k44** jestem **jn.developerem** i **grafikiem**.
 
 ---
 
 ## 💻 Czym się zajmuję?
 
 - Tworzeniem botów na Discorda
-- Grafiką komputerową i developerstwem
-- Robię pluginy minecraft
+- Grafiką komputerową i developerstw'em
+- Robinię pluginów do minecraft'a
 
 ---
 
@@ -46,18 +45,12 @@ Tworzę różne projekty, eksperymentuję z nowymi technologiami i rozwijam swoj
 
 ---
 
-## 🎯 Aktualnie
-
-- Na razie nic tu nie ma 
-
----
-
-## 📫 Kontakt
+## 📫 Linki
 
 * 💬 Discord:
 
 ---
 
 <p align="center">
-  <b>⚡ Tworzę. Testuję. Ulepszam.</b>
+  <b>...</b>
 </p>
