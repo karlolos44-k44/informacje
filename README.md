@@ -21,17 +21,17 @@ Tworzę różne projekty, eksperymentuję z nowymi technologiami i rozwijam swoj
 - Node.js
 - Java
 
-### 🎮 Minecraft
+### Minecraft
 
 * Fabric
 * Minecraft Modding
 * Java
 
-### 🎨 Grafika
+### Grafika
 
 * Photoshop
-* Projektowanie logo
-* UI / UX
+* Loga (Dopiera się uczę robić)
+* Miniatury
 * Grafika cyfrowa
 
 ---
@@ -42,9 +42,9 @@ Tworzę różne projekty, eksperymentuję z nowymi technologiami i rozwijam swoj
 
 ## 📊 GitHub
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=k44&show_icons=true&theme=dark&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karlolos44-k44&show_icons=true&theme=dark&hide_border=true" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k44&layout=compact&theme=dark&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlolos44-k44&layout=compact&theme=dark&hide_border=true" /> </p>
 
 ---
 
