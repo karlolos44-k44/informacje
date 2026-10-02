@@ -1,4 +1,4 @@
-<h1 align="center">Informacje o mnie</h1>
+<h1 align="center">Informacje o mnie 💫</h1>
 
 ## 🛠️ Technologie
 
