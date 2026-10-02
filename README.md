@@ -3,8 +3,12 @@
 ## 🛠️ Technologie
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,java,ps" />
+  <img src="https://skillicons.dev/icons?i=github,js,nodejs,java,ps" />
 </p>
+
+## 🚀 Moje projekty
+
+* Mój mod do Minecrafta: [Kliknij tutaj](https://www.curseforge.com/minecraft/mc-mods/noscrolll)
 
 ## 📊 GitHub
 
@@ -17,11 +21,6 @@
 </p>
 
 ---
-
-## 🚀 Moje projekty
-
-* Mój mod do Minecrafta: [Kliknij tutaj](https://www.curseforge.com/minecraft/mc-mods/noscrolll)
-
 ## 🔗 Linki
 
 * Discord: [Kliknij tutaj](https://discord.gg/YwerVqHVyN)
