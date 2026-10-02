@@ -45,12 +45,6 @@ Nazywam się **k44** jestem **jn.developerem** i **grafikiem**.
 
 ---
 
-## 📫 Linki
+## 🔗 Linki
 
-* 💬 Discord:
-
----
-
-<p align="center">
-  <b>...</b>
-</p>
+* Discord: [Kliknij tutaj](https://discord.gg/YwerVqHVyN)
