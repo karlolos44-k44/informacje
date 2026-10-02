@@ -3,7 +3,7 @@
 ## 🛠️ Technologie
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,js,nodejs,java,ps" />
+  <img src="https://skillicons.dev/icons?i=github,js,nodejs,py,java,ps" />
 </p>
 
 ## 🚀 Moje projekty
