@@ -1,6 +1,6 @@
 <h1 align="center">Informacje o mnie 💫</h1>
 
-## 🛠️ Technologie
+## 🛠️ Języki i narzędzia
 
 <p>
   <img src="https://skillicons.dev/icons?i=github,js,nodejs,py,java,ps" />
